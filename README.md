@@ -10,10 +10,8 @@ Along with the useful of the Rapid Application Development, a human readable and
 
 ## Approach
 
-<details><summary>case</summary>
-    <ul>
-        <li>
-            <a href="https://github.com/nitsvutt/query-examples/blob/main/sql/case/triangle-types">Triangle types</a>
-        </li>
-    </ul>
-</details>
+<ul>
+    <li>
+        <a href="https://github.com/nitsvutt/query-examples/blob/main/sql/case/triangle-types">Triangle types</a>
+    </li>
+</ul>
