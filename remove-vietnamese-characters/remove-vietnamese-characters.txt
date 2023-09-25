@@ -5,7 +5,7 @@ This is my own example.
 "Box công Ty", "Box chính hang", "Box chinh hãng", "box chính hãng", etc. You only want to have "box cong ty" and "box chinh hang"
 to quickly replace them by "Box công ty" and "Box chính hãng".
 - Write a function that will remove all vietnamese characters from some strings to have an unified string for categorizing purpose.
-You can quickly consider the unidecode function provided by [Unidecode module](https://pypi.org/project/Unidecode/) of Python (or
+You can quickly consider the unidecode function provided by [Unidecode module](https://pypi.org/project/Unidecode/) in Python (or
 some thing like this), but please "deep dive into the algorithm".
 
 2. Example:
