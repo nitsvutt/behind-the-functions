@@ -35,5 +35,5 @@ def removeVietnameseCharacters(string:String): String = {
     }
 
     // return the result
-    return result
+    result
 }
