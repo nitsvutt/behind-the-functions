@@ -1,4 +1,4 @@
-def removeVietnameseCharacters(string:String): String = {
+val removeVietnameseCharacters = (string:String) => {
 
     // every characters to lower case
     var result = string.toLowerCase()
