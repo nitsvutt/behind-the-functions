@@ -6,7 +6,7 @@
 
 ## Abstract
 
-Along with the useful of the Rapid Application Development, human readable and functional programming languages, such as Python, Ruby, and Dart, always play a vital role. These days, gravitating towards using them without a deep understand on their essence is somewhat practical, but what happen if you intend to write your application in more object-oriented programming languages like C++, Java and Scala. So let's "deep dive into the algorithm", the main character behind every functions.
+Along with the useful of the Rapid Application Development, human readable and functional programming languages, such as Python, Ruby, and Dart, always play a vital role. These days, gravitating towards using them without a deep understand on their essence is somewhat practical, but what happen when you intend to write your application in more object-oriented programming languages like C++, Java and Scala. So let's "deep dive into the algorithm", the main character behind every functions.
 
 ## Approach
 
