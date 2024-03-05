@@ -1,0 +1,11 @@
+This is my own example.
+
+1. Requirement:
+- Accumulation is very common in report related to Banking and Finance. And newbies usually feel confused
+when dealing with average accumulation. And the very useful function to cope with this problem is accumulating
+a sum value and dividing it by the number days per period. (Note that some more difficult cases you have to
+accummulating the number days from the first day of the period to divide by)
+
+2. Example:
+- Input: "year", '2024-01-01'.
+- Output: 366.
