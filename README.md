@@ -11,3 +11,4 @@ Along with the useful of the Rapid Application Development, human readable and f
 ## Approach
 
 ### <a href="https://github.com/nitsvutt/behind-the-functions/blob/main/remove-vietnamese-characters">Remove Vietnamese Characters</a>
+### <a href="https://github.com/nitsvutt/behind-the-functions/blob/main/get-num-days-per-period">Get the number days of a period</a>
